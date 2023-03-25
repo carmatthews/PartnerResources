@@ -1,0 +1,296 @@
+---
+title: "Module 6 - Presentation and Visualization"
+subtitle: "EDSP Challenge Mentoring"
+author: "Marck Vaisman"
+
+---
+
+```{r child="setup-options.Rmd"}
+```
+
+```{r, include=F}
+library(emo)
+currdir <- here::here()
+imgdir <- path(currdir, 'img')
+
+
+```
+
+## Contents
+
+.pull-left[
+1. The difference between designing for you vs. for designing for an audience
+1. Choosing the right visualization
+  * All about asking questions
+  * Decomposing your chart
+  * Understanding encodings
+1. Visualization critique discussion
+1. Final conceptual and design considerations
+  * Making readable graphics
+  * Deep dive into Tufte's principles
+  * Bringing it all together. 
+]
+
+.pull-right[
+### Litarate programming
+
+* https://en.wikipedia.org/wiki/Literate_programming
+
+* http://literateprogramming.com/index.html
+
+  * https://jupyter.org/
+  * https://css-skills.uchicago.edu/posts/2021-11-16-literate-programming-with-r-markdown/
+]
+
+---
+
+class: inverse, center, middle
+
+# Let's begin
+
+---
+
+# Data visualization is both _art_ and _science_.
+
+.pull-left[
+**Art**
+
+<img src="https://media.giphy.com/media/gVJKzDaWKSETu/giphy.gif">
+]
+
+.pull-right[
+**Science**
+
+<img src="https://media.giphy.com/media/VIo556t5920j07cCR4/giphy.gif">
+]
+
+---
+
+# Data <----> grammar
+
+.pull-left[
+<img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif">
+]
+
+.pull-right[
+* Data visualization is as valuable to anyone working with data as grammar is to anyone working with words
+* Just as you should not write an essay without proper grammar, you should not create a graph without first mastering data visualization best practices
+]
+
+---
+
+# Visualization is an iterative process
+
+<div align="center">
+<img src="https://flowingdata.com/wp-content/uploads/2016/09/visualization-process-720x561.jpeg">
+</div>
+
+---
+
+## How _thought_ leadership helps drive data science impact
+
+.pull-left[
+* Data **alone** is not **insight**. 
+  * Humans can tell a better story than data can by itself
+  * Numbers rarely speak for themselves. Need context
+  
+* Data scientist with storytelling skills have greater business impact
+  * Influencing for impact often comes down to conveying a compelling narrative around data and what it means
+  * Data scientists who develop this skill typically have the edge in getting their work noticed and acted upon, and enhance their abilities to be acknowledged as an expert by peers and leaders
+]
+
+.pull-right[
+In your work as data scientists, in addition to doing modeling and machine learning work, you will be responsible (either individually or as part of a team) for providing the following as part of a project:
+
+* **Findings:** what does the data say? 
+
+* **Conclusions:** what is your interpretation of the _findings_?
+
+* **Recommendations:** what can be done as a result of the _findings_ and _conclusions_?
+
+]
+
+.footnote[Source: [MLADS Talk](https://msit.microsoftstream.com/video/968b0840-98dc-8491-7401-f1ec431e3f3f?channelId=8fc90840-98dc-8491-ce0d-f1ec433939d7
+)]
+
+---
+
+# Practice, practice, practice
+
+<div align="center">
+<img src="https://media.giphy.com/media/Y2c1ZjXVHRdSr1YojF/giphy.gif">
+</div>
+
+
+---
+
+```{r child='why-we-visualize.Rmd'}
+```
+
+---
+
+class: inverse, center, middle
+
+# Back to our original programming...
+
+
+---
+
+
+# Think about when you first get a dataset... what might happen?
+
+--
+- You don't know what to expect when you first open up a data file
+
+--
+- You make, remake and review summary charts to get a sense of what you are dealing with
+
+--
+- You throw the dataset into some kind of automatic tool for a quick overview
+
+--
+- You see something odd or interesting and you poke some more in that area
+
+---
+
+class: inverse, center, middle
+
+# a-ha!
+
+---
+
+class: center,middle
+
+.ba.bw2.br3.bg-washed-blue.b--blue.ph4[
+.f3[
+Exploratory data analysis is detective work—numerical detective work—or counting detective work—or graphical detective work.
+]
+.tr[
+John Tukey, 1997  
+Exploratory Data Analysis
+]
+]
+
+---
+
+class: inverse
+
+
+.f2.b--dark-blue.ba.bw2.br3.ph4.mt5[
+You kind of know what you’re looking for, but you don’t know what you’re going to find yet. You work with your bag of tools through the available resources.
+]
+
+--
+
+# You then present to your team...
+
+
+---
+
+background-image: url("https://i.insider.com/51cb25fa69beddcd4f000005?width=700&format=jpeg&auto=webp")
+background-size: cover
+
+---
+
+class: middle, center
+
+<div align="center" class="tenor-gif-embed" data-postid="13045781" data-share-method="host" data-width="70%" data-aspect-ratio="1.447674418604651"><a href="https://tenor.com/view/fml-sylvester-cat-annoyed-head-bang-gif-13045781">Fml Sylvester GIF</a> from <a href="https://tenor.com/search/fml-gifs">Fml GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+---
+
+# Oh no!
+
+--
+- Your labels are not aligned
+
+--
+- You have to tilt your head to see the data in the right way
+
+--
+- The chart type you have chosen is not ideal
+
+--
+- Your color choice is not color-blind friendly (and your customer is color blind)
+
+--
+- You used ComicSans font
+
+--
+- A variable is named _%$%#@!!_
+
+--
+- Your chart doesn't show properly on a mobile device and the CEO is looking at it from the beach
+
+
+---
+
+background-image: url("https://media.giphy.com/media/G5X63GrrLjjVK/giphy.gif")
+background-size: contain
+class: inverse, center, bottom
+
+# Who cares, right?
+
+
+---
+
+# Two broad things you **MUST** care about:
+
+.pull-left[
+<img src="https://media.giphy.com/media/l2YWAC4zYseVWIh8I/giphy.gif">
+]
+
+.pull-right[
+* How your chart looks for your own use
+* How your chart will work for your audience
+]
+
+---
+
+```{r child='adjusting-for-differences.Rmd'}
+```
+
+---
+
+```{r child='seven-basic-rules.Rmd'}
+```
+
+---
+
+
+```{r child='selecting-a-chart.Rmd'}
+```
+
+---
+
+```{r child='breaking-it-up.Rmd'}
+```
+
+---
+
+```{r child='visual-encodings.Rmd'}
+```
+
+---
+
+```{r child='what-is-wrong.Rmd'}
+```
+
+---
+
+```{r child='layers.Rmd'}
+
+```
+
+---
+
+```{r child='tufte.Rmd'}
+```
+
+---
+
+```{r child='bringing-it-together.Rmd'}
+```
+
+
+
+

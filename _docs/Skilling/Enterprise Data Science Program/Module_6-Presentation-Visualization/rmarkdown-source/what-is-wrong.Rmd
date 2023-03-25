@@ -1,0 +1,54 @@
+
+class: inverse
+
+# Visualization critiques: what is wrong with this picture?
+
+* What is the first thing you notice about this visualization?
+* What point is the visualization trying to make?
+* Who is the intended audience?
+* What is the visualization doing well?
+* What problems do you see with the visualization design?
+
+
+---
+
+## Bad example 1
+
+.center[<img src="`r img_path('bad1.png')`">]
+
+---
+
+## Bad example 2
+
+.center[<img src="`r img_path('bad2.png')`">]
+
+---
+
+## Bad example 3
+
+.center[<img src="`r img_path('bad3.png')`">]
+
+---
+
+## Bad example 4
+
+.center[<img src="`r img_path('bad4.png')`">]
+
+---
+
+## Bad example 5
+
+.center[<img src="`r img_path('bad5.png')`">]
+
+---
+
+## Some cool visualization links
+
+[Visual Capitalist](https://multithreaded.stitchfix.com/blog/2020/09/02/what-color-is-this/)
+
+[Scientific American: The Pulsar Chart That Became a Pop Icon Turns 50: Joy Division’s Unknown Pleasures](https://www.scientificamerican.com/article/the-pulsar-chart-that-became-a-pop-icon-turns-50-joy-division-rsquo-s-unknown-pleasures/)
+
+[Stitch Fix: What Color is This?](https://multithreaded.stitchfix.com/blog/2020/09/02/what-color-is-this/)
+
+[Reddit (yes, Reddit) r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+
