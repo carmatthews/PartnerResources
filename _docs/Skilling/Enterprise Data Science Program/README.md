@@ -2,7 +2,7 @@
 layout: page
 title: Enterprise Data Science Program Training
 description: Training program to prepare to complete the Enterprise Data Science Challenge.
-permalink: /skilling/edsp/index
+permalink: /skilling/edsp/
 updated: 2023/03/24
 showbreadcrumb: true
 tags: 

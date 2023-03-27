@@ -1,3 +1,17 @@
+---
+layout: page
+title: Enterprise Data Science Program Training
+description: Training program to prepare to complete the Enterprise Data Science Challenge.
+permalink: /skilling/edsp/resources/
+updated: 2023/03/24
+showbreadcrumb: true
+tags: 
+- azure
+- data, analytics, and ai
+- artificial intelligence
+- machine learning
+---
+
 # Resources: DS Toolbox and Fundamentals
 
 ## Overview
