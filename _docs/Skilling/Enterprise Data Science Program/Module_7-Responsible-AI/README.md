@@ -31,8 +31,7 @@ Welcome to the Responsible AI module of the EDSP mentoring program!
 | Resources          | Links                            |
 |-------------------|-----------------------------------|
 | Presentation      |  [Presentation](./Presentations/Explainability-and-Responsible-AI-FINAL.pdf)  |
-| Recording     |  [Recording](https://msit.microsoftstream.com/video/709d0840-98dc-a999-065e-f1ec9b1a7960)  |
-| FY23 Recording     |  [FY23 Recording](https://msit.microsoftstream.com/video/9dfa99ff-0300-bf78-befc-f1ed91d5e799)  |
+| Recording     |  [Recording](https://msuspartners.eventbuilder.com/event/71902?source=EDSPTraining)  |
 
 
 ## Table of Contents 

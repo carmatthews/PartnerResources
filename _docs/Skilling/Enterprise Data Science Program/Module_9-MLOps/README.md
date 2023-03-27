@@ -27,7 +27,7 @@ MLOps is not required for the Data Science Challenge, however it's a critical ne
 | Resources          | Links                            |
 |-------------------|----------------------------------|
 | Presentation        |  [Presentation](./Presentations) |
-| Recording     |  [Recording FY 23](https://msit.microsoftstream.com/video/32d70840-98dc-ba75-b415-f1edb23d4c14)|
+| Recording     |  [Recording](https://msuspartners.eventbuilder.com/event/71910?source=EDSPTraining)|
 
 
 ## MLOps

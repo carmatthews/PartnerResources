@@ -30,9 +30,8 @@ In this module participants will have 1 week to complete an example challenge th
 
 | Resources          | Links                            |
 |-------------------|----------------------------------|
-| Presentation        |  [Presentation](./Presentations) |
-| Recording     |  [Recording](https://msit.microsoftstream.com/video/dee60840-98dc-997d-240a-f1ecab9f7867)|
-| FY23 Recording     |  [FY23 Recording](https://msit.microsoftstream.com/video/40e30840-98dc-ba75-8286-f1ed9dc0ecf3)|
+| Presentation (pdf)       |  [Presentation](./Presentations) |
+| Recording     |  [Recording](https://msuspartners.eventbuilder.com/event/71909?source=EDSPTraining)|
 
 
 ## Table of Contents 

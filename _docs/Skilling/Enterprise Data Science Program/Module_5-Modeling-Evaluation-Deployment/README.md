@@ -30,9 +30,9 @@ In this module, we discuss model training, evaluation and hyperparameter tuning.
 
 | Resources          | Links                            |
 |-------------------|----------------------------------|
-| Training & Evaluation Recording     |  [Recording](https://msuspartners.eventbuilder.com/event/70076?source=EDSPTraining)  |
+| Training & Evaluation Recording           |  [Recording](https://msuspartners.eventbuilder.com/event/70076?source=EDSPTraining)  |
 | Training and Evaluation Presentation      |  [Training and Evaluation](./Presentations/Model%20Training.pptx) |
-| Hyperparamter Tuning Recording    |  [Recording](https://msuspartners.eventbuilder.com/event/70077?source=EDSPTraining)  |
+| Hyperparamter Tuning Recording            |  [Recording](https://msuspartners.eventbuilder.com/event/70077?source=EDSPTraining)  |
 | Hyperparameter Tuning Presentation        |  [AzureML Hyperdrive](./Presentations/AML_Hyperdrive.pptx) |
 
 
