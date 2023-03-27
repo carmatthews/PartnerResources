@@ -2,11 +2,11 @@
 layout: page
 title: Microsoft Security Academy
 description: Microsoft Security Academy
-updated: 2022-12-15
+updated: 2023-02-20
 permalink: /skilling/microsoft-security-academy
 redirect_from:
   - /skilling/microsoft-security-academy/
-showbreadcrumb: true
+showbreadcrumb: true  
 ---
 
 {% include_relative header.md %}
@@ -26,6 +26,8 @@ Welcome to the Microsoft Security Academy! This academy is organized into five p
 ## Important Updates
 We'll update this section with our upcoming events or critical content! For other Microsoft Security content, explore the [Microsoft Security Youtube](https://www.youtube.com/@MicrosoftSecurity/featured) or the [Microsoft Security Community YouTube](https://www.youtube.com/channel/UCGTUbqE3SJiLgtvWjIkSQuQ). For documentation, explore the [Microsoft Security Technical Content Library](https://www.microsoft.com/en-us/security/content-library/Home/Index?culture=en-US).
 
+Interested in Security Compliance and Identity training? Register for events at [Enable Security Compliance and Identity](aka.ms/EnableSCI)!
+
 
 ## Security Certifications
 Below you will find information about security certifications critical for learning. Please use the navigation pane on the right to quickly jump between sections or specific certification that you are interested in.
@@ -41,6 +43,7 @@ Below you will find information about security certifications critical for learn
 #### Exam Resources
 * [SC-100 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-100)
 * [John Savill Study Cram](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
+* [Study Guide by Charbel Nemnom, MVP](https://nemnom.ch/sc100)
 
 
 #### Microsoft Security Operations Analyst (SC-200)
@@ -64,11 +67,12 @@ Below you will find information about security certifications critical for learn
 
 #### Exam Resources
 * [SC-300 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/sc-300)
+* [SC-300 Labs](https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator)
 * [John Savill Study Cram](https://www.youtube.com/watch?v=LGpgqRVG65g)
 * [Study Guide by Charbel Nemnom, MVP](https://aka.ms/SC-300StudyGuide)
 
 
-#### Microsoft Information Protection Administrator (SC-400) 
+#### Microsoft Information Protection Administrator (SC-400)
 #### Exam Overview
 * Implement information protection (35–40%)
 * Implement data loss prevention (30–35%)
@@ -104,4 +108,3 @@ Below you will find information about security certifications critical for learn
 
 
 {% include_relative footer.md %}
-
