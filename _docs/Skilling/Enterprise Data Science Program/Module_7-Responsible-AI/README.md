@@ -40,7 +40,7 @@ Welcome to the Responsible AI module of the EDSP mentoring program!
 |-------------------|-----------------------------------|
 | Recording     | [Model Explainability & Responsible AI with AML (60 minutes)](https://www.youtube.com/watch?v=vix3aAkfSD4) |
 | Recording     | [How to Explain Models with IntepretML Deep Dive - YouTube  (30 minutes)](https://www.youtube.com/watch?v=WwBeKMQ0-I8)  |
-| Recording     | [How to Test Models for Fairness with Fairlearn Deep-Dive - YouTube  (30 minutes)](https://www.youtube.com/watch?v=Ts6tB2p97ek)  |
+| Recording     | [How to Test Models for Fairness with Fairlearn Deep-Dive - YouTube  (12 minutes)](https://www.youtube.com/watch?v=Ts6tB2p97ek)  |
 | Recording     | [Explainable AI explained: Introduction  (10 mins)](https://www.youtube.com/channel/UCScjF2g0_ZNy0Yv3KbsbR7Q)    |
 | Recording     | [Explainable AI explained: 2 By Design interpretable models with Microsoft InterpretML (20 mins)](https://www.youtube.com/watch?v=qPn9m30ojfc&list=PLV8yxwGOxvvovp-j6ztxhF3QcKXT6vORU&index=2)  |
 | Recording     | [Explainable AI explained: 3 LIME - YouTube (15 mins)](https://www.youtube.com/watch?v=d6j6bofhj2M&list=PLV8yxwGOxvvovp-j6ztxhF3QcKXT6vORU&index=3) |
