@@ -18,17 +18,15 @@ Welcome!
 
 The content of this repository is available for you to work through in preparation for completing the **Enterprise Data Science Program** Challenge.
 
-For more information about the logistics of the program, please see the [Kickoff](./Kickoff-Materials/README.md) for recordings and presentations about the Mentors and the Program.
-
 ## Modules
 
-Here are all the topics available in this program:
+The topics available in this program:
 
-### [**Module 1**: Python](./Module_1-Python/README.md)
+### [**Module 1**: Python](/skilling/edsp/python)
 
 The core Python concepts you'll need as you begin your journey into Data Science and Machine Learning.
 
-### [**Module 2**: Math & Statistics](./Module_2-Math/README.md)
+### [**Module 2**: Math & Statistics](/skilling/edsp/math)
 
 Data Science involves many areas of mathematics from statistics, calculus, linear algebra, and more. The material in this module is around statistics and probability - this knowledge will help serve as a foundation as you continue into the later modules.
 
