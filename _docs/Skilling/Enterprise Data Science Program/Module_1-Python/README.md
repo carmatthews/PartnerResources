@@ -42,7 +42,7 @@ The learning material reported in the Table of Contents below is available from 
 
 | Resources          | Links                            |
 |-------------------|----------------------------------|
-| Presentation        |  [Presentations](PartnerResources/skilling/edsp/python/Presentations) |
+| Presentation        |  [Presentations](PartnerResources/skilling/edsp/python/Presentations/Python-EDSP-Program.pdf) |
 | Recording     |  [Recording](https://msuspartners.eventbuilder.com/event/68771?source=EDSPTraining)  |
 
 
