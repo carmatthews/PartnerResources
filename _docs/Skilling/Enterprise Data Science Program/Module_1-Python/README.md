@@ -42,7 +42,8 @@ The learning material reported in the Table of Contents below is available from 
 
 | Resources          | Links                            |
 |-------------------|----------------------------------|
-| Presentation        |  [Presentations](/Presentations/Python-EDSP-Program.pdf) |
+| Presentation        |  [Presentations](Presentations/Python-EDSP-Program.pdf) |
+| Presentation Test | <a href="Presentations/Python-EDSP-Program.pdf" target="_blank">PReso Pdf</a>
 | Recording     |  [Recording](https://msuspartners.eventbuilder.com/event/68771?source=EDSPTraining)  |
 
 
@@ -61,7 +62,7 @@ The learning material reported in the Table of Contents below is available from 
 |02:15| Pandas DataFrames   | [Pandas DataFrames ](http://swcarpentry.github.io/python-novice-gapminder/08-data-frames/index.html) |
 |02:45| Plotting   | [Plotting ](http://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html) |
 |03:15| Lunch   | Break |
-|04:00| Lists   | [Lists ](http://swcarpentry.github.io/python-novice-gapminder/11-lists/index.html) |
+|04:00| Lists   | [Lists](http://swcarpentry.github.io/python-novice-gapminder/11-lists/index.html) |
 |04:20| For Loops   | [For Loops ](http://swcarpentry.github.io/python-novice-gapminder/12-for-loops/index.html) |
 |04:45| Conditionals   | [Conditionals ](http://swcarpentry.github.io/python-novice-gapminder/13-conditionals/index.html) |
 |05:10| Looping Over Data Sets   | [Looping Over Data Sets ](http://swcarpentry.github.io/python-novice-gapminder/14-looping-data-sets/index.html) |
