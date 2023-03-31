@@ -22,7 +22,7 @@ The content of this repository is available for you to work through in preparati
 
 The topics available in this program:
 
-### [**Module 1**: Python](/skilling/edsp/python)
+### [**Module 1**: Python](PartnerResources/skilling/edsp/python)
 
 The core Python concepts you'll need as you begin your journey into Data Science and Machine Learning.
 
