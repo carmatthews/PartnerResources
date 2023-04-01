@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enterprise Data Science Program Training
+title: Python Module
 description: Training program to prepare to complete the Enterprise Data Science Challenge.
 permalink: /skilling/edsp/python/
 updated: 2023/03/24
@@ -42,8 +42,7 @@ The learning material reported in the Table of Contents below is available from 
 
 | Resources          | Links                            |
 |-------------------|----------------------------------|
-| Presentation        |  [Presentations](Presentations/Python-EDSP-Program.pdf) |
-| Presentation Test | <a href="Presentations/Python-EDSP-Program.pdf" target="_blank">PReso Pdf</a>
+| Presentation Test | <a href="Python-EDSP-Program.pdf" target="_blank">Presentation as PDF</a>
 | Recording     |  [Recording](https://msuspartners.eventbuilder.com/event/68771?source=EDSPTraining)  |
 
 

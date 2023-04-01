@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enterprise Data Science Program Training
+title: Presentation & Visualization
 description: Training program to prepare to complete the Enterprise Data Science Challenge.
 permalink: /skilling/edsp/presentation/
 updated: 2023/03/24

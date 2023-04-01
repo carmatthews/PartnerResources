@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enterprise Data Science Program Training
+title: Math & Statistics
 description: Training program to prepare to complete the Enterprise Data Science Challenge.
 permalink: /skilling/edsp/business/
 updated: 2023/03/24
