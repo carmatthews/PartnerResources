@@ -42,7 +42,7 @@ The learning material reported in the Table of Contents below is available from 
 
 | Resources          | Links                            |
 |-------------------|----------------------------------|
-| Presentation Test | <a href="Python-EDSP-Program.pdf" target="_blank">Presentation as PDF</a>
+| Presentation | <a href="Python-EDSP-Program.pdf" target="_blank">Presentation as PDF</a>
 | Recording     |  [Recording](https://msuspartners.eventbuilder.com/event/68771?source=EDSPTraining)  |
 
 
@@ -103,3 +103,4 @@ If you have a DataCamp account you can practice your Python skills using the fol
 Test your new Python skills by solving the quiz/reply questions on the notebook below:
 
 - [Python Notebook Test](./Challenge) 
+- <a href="EDSP-Python-Challenge_Student.ipynb" target="_blank">Python Notebook Exercise</a>
